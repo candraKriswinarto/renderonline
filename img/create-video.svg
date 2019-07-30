@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="103px" viewBox="0 0 128 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.611,26.135 C-2.403,45.576 -0.499,66.357 22.995,70.7 C46.489,75.044 66.911,70.874 72.924,51.433 C78.938,31.993 65.564,15.726 48.83,4.639 C44.608,1.842 40.018,0.587 35.421,0.586 C21.801,0.585 8.107,11.599 3.611,26.135" id="path-1"></path>
+        <linearGradient x1="11.0176798%" y1="70.8045301%" x2="88.2869212%" y2="32.5468986%" id="linearGradient-3">
+            <stop stop-color="#756DE8" offset="0%"></stop>
+            <stop stop-color="#9C95FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M61.528,0.247 C57.647,0.248 53.785,0.872 50.088,2.177 C24.096,11.353 0.088,24.562 0.088,52.177 C0.088,79.791 17.458,99.581 43.088,102.176 C68.718,104.773 91.827,85.465 100.088,59.177 C110.914,24.73 85.883,0.251 61.546,0.247 L61.528,0.247 Z" id="path-4"></path>
+        <linearGradient x1="10.6995645%" y1="16.6466352%" x2="89.0014026%" y2="80.5966433%" id="linearGradient-6">
+            <stop stop-color="#57F0FF" offset="0%"></stop>
+            <stop stop-color="#42A1FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M6.944,0.956 C3.105,2.952 -0.338,5.533 0.269,9.826 C0.874,14.119 4.008,16.813 8.049,16.655 C12.09,16.496 15.259,12.988 15.968,8.719 C16.828,3.527 13.07,0.349 9.5,0.348 C8.612,0.348 7.736,0.545 6.944,0.956" id="path-7"></path>
+        <linearGradient x1="6.35261314%" y1="23.3403371%" x2="93.9422783%" y2="74.7963875%" id="linearGradient-9">
+            <stop stop-color="#FFA32F" offset="0%"></stop>
+            <stop stop-color="#EF7279" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="0 0.0275 3.9999 0.0275 3.9999 4.0275 0 4.0275"></polygon>
+        <path d="M10.445,11.256 C1.731,19.112 -2.439,28.451 1.885,33.211 C6.208,37.973 12.175,32.424 22.465,25.988 C32.756,19.553 58.723,19.588 54.969,5.228 C54.169,2.167 48.992,0.61 42.222,0.61 C32.088,0.61 18.383,4.099 10.445,11.256" id="path-12"></path>
+        <linearGradient x1="59.5339324%" y1="75.2875414%" x2="35.1900547%" y2="12.8397891%" id="linearGradient-14">
+            <stop stop-color="#FFA32F" offset="0%"></stop>
+            <stop stop-color="#EF7279" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.438,0.099 C2.228,0.099 0.437,1.89 0.437,4.099 L0.437,67.234 C0.437,69.442 2.228,71.233 4.438,71.233 L90.39,71.233 C92.599,71.233 94.39,69.442 94.39,67.234 L94.39,4.099 C94.39,1.89 92.599,0.099 90.39,0.099 L4.438,0.099 Z" id="path-15"></path>
+        <linearGradient x1="15.6731326%" y1="-0.220847696%" x2="84.8566606%" y2="100.996573%" id="linearGradient-17">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BDD4FF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-18" points="0.79875 36.635 29.9765625 18.666 0.79875 0.698"></polygon>
+        <linearGradient x1="-5.41931016%" y1="15.5769989%" x2="62.0549051%" y2="87.9258316%" id="linearGradient-20">
+            <stop stop-color="#57F07B" offset="0%"></stop>
+            <stop stop-color="#15CD6E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="general-homepage-v2-copy" transform="translate(-656.000000, -1388.000000)">
+            <g id="Group-27" transform="translate(656.000000, 1387.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.753000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M3.611,26.135 C-2.403,45.576 -0.499,66.357 22.995,70.7 C46.489,75.044 66.911,70.874 72.924,51.433 C78.938,31.993 65.564,15.726 48.83,4.639 C44.608,1.842 40.018,0.587 35.421,0.586 C21.801,0.585 8.107,11.599 3.611,26.135" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(11.000000, 0.753000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M61.528,0.247 C57.647,0.248 53.785,0.872 50.088,2.177 C24.096,11.353 0.088,24.562 0.088,52.177 C0.088,79.791 17.458,99.581 43.088,102.176 C68.718,104.773 91.827,85.465 100.088,59.177 C110.914,24.73 85.883,0.251 61.546,0.247 L61.528,0.247 Z" id="Fill-4" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+                <g id="Group-9" transform="translate(110.000000, 46.753000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <path d="M6.944,0.956 C3.105,2.952 -0.338,5.533 0.269,9.826 C0.874,14.119 4.008,16.813 8.049,16.655 C12.09,16.496 15.259,12.988 15.968,8.719 C16.828,3.527 13.07,0.349 9.5,0.348 C8.612,0.348 7.736,0.545 6.944,0.956" id="Fill-7" fill="url(#linearGradient-9)" mask="url(#mask-8)"></path>
+                </g>
+                <g id="Group-17" transform="translate(0.000000, 13.753000)">
+                    <path d="M120.2197,1.6857 L121.4077,5.3427 C121.7377,6.3557 120.8427,7.3447 119.8017,7.1177 L115.9007,6.2677 C114.8447,6.0377 114.4507,4.7377 115.2017,3.9587 L117.9147,1.1537 C118.6377,0.4047 119.8977,0.6957 120.2197,1.6857" id="Fill-10" fill="#4FDC6F"></path>
+                    <path d="M11.0883,77.1515 C9.9843,77.1515 9.0883,78.0475 9.0883,79.1515 C9.0883,80.2565 9.9843,81.1515 11.0883,81.1515 C12.1923,81.1515 13.0883,80.2565 13.0883,79.1515 C13.0883,78.0475 12.1923,77.1515 11.0883,77.1515 M11.0883,83.2215 C8.8793,83.2215 7.0883,81.4305 7.0883,79.2215 C7.0883,77.0125 8.8793,75.2215 11.0883,75.2215 C13.2973,75.2215 15.0883,77.0125 15.0883,79.2215 C15.0883,81.4305 13.2973,83.2215 11.0883,83.2215" id="Fill-12" fill="#F7CF06"></path>
+                    <g id="Group-16" transform="translate(0.000000, 60.000000)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <g id="Clip-15"></g>
+                        <path d="M1.9999,0.0275 C3.1039,0.0275 3.9999,0.9235 3.9999,2.0275 C3.9999,3.1315 3.1039,4.0275 1.9999,4.0275 C0.8959,4.0275 -0.0001,3.1315 -0.0001,2.0275 C-0.0001,0.9235 0.8959,0.0275 1.9999,0.0275" id="Fill-14" fill="#F37C6A" mask="url(#mask-11)"></path>
+                    </g>
+                </g>
+                <g id="Group-20" transform="translate(72.000000, 68.753000)">
+                    <mask id="mask-13" fill="white">
+                        <use xlink:href="#path-12"></use>
+                    </mask>
+                    <g id="Clip-19"></g>
+                    <path d="M10.445,11.256 C1.731,19.112 -2.439,28.451 1.885,33.211 C6.208,37.973 12.175,32.424 22.465,25.988 C32.756,19.553 58.723,19.588 54.969,5.228 C54.169,2.167 48.992,0.61 42.222,0.61 C32.088,0.61 18.383,4.099 10.445,11.256" id="Fill-18" fill="url(#linearGradient-14)" mask="url(#mask-13)"></path>
+                </g>
+                <g id="Group-23" transform="translate(11.000000, 12.753000)">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <g id="Clip-22"></g>
+                    <path d="M4.438,0.099 C2.228,0.099 0.437,1.89 0.437,4.099 L0.437,67.234 C0.437,69.442 2.228,71.233 4.438,71.233 L90.39,71.233 C92.599,71.233 94.39,69.442 94.39,67.234 L94.39,4.099 C94.39,1.89 92.599,0.099 90.39,0.099 L4.438,0.099 Z" id="Fill-21" fill="url(#linearGradient-17)" mask="url(#mask-16)"></path>
+                </g>
+                <g id="Group-26" transform="translate(44.000000, 29.753000)">
+                    <mask id="mask-19" fill="white">
+                        <use xlink:href="#path-18"></use>
+                    </mask>
+                    <g id="Clip-25"></g>
+                    <polygon id="Fill-24" fill="url(#linearGradient-20)" mask="url(#mask-19)" points="0.79875 36.635 29.9765625 18.666 0.79875 0.698"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
